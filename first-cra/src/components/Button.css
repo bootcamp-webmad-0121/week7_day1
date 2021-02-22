@@ -1,0 +1,15 @@
+a[class*='button'] {
+    border: 1px solid;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    display: block;
+}
+
+.yellow-button {
+    background-color: yellow;
+}
+
+.grey-button {
+    background-color: #ccc;
+}
